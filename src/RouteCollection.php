@@ -11,6 +11,9 @@
 
 namespace Sunrise\Http\Router;
 
+use ArrayObject;
+use NumberFormatter;
+
 /**
  * Import classes
  */
